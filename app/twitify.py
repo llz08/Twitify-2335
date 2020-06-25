@@ -51,3 +51,5 @@ def create_playlist():
 #Step 4: Add song to playlist
 
 def add_song_to_playlist():
+    twitify_account()
+
